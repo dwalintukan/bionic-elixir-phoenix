@@ -3,7 +3,7 @@ LABEL maintainer="deric.walintukan@gmail.com"
 
 ENV DEBIAN_FRONTEND noninteractive
 ENV ERLANG_VERSION 1:21.1.1-1
-ENV ELIXIR_VERSION 1.7.4
+ENV ELIXIR_VERSION 1.8.2
 ENV PHOENIX_VERSION 1.3.4
 
 # Elixir requires UTF-8
